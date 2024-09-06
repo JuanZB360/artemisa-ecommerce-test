@@ -1,4 +1,4 @@
-package com.riwi.Artemisa.utils;
+package com.Artemisa.Ecommerce.utils;
 
 public enum StatesOrder {
     PENDING,

@@ -1,7 +1,7 @@
-package com.riwi.Artemisa.entities;
+package com.Artemisa.Ecommerce.entities;
 
 
-import com.riwi.Artemisa.utils.StatesOrder;
+import com.Artemisa.Ecommerce.utils.StatesOrder;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;

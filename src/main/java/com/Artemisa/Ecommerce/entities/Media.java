@@ -1,4 +1,4 @@
-package com.riwi.Artemisa.entities;
+package com.Artemisa.Ecommerce.entities;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
